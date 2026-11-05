@@ -18,5 +18,6 @@ in mobile application development.
 - Java
 - HTML
 - CSS
+This project Git version control workflows.
 
 
